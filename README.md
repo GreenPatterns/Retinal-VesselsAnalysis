@@ -1,2 +1,2 @@
 # Retinal-Vessel-Analysis
-This repositery contain work of my MS thesis. We worked on retinal vessel classification within the retinal vesculature. It is a basic step for understanding systemic diseases from retina. 
+This repositery contain our work on retinal vessel classification within the retinal vesculature, which is a prerequisite step for understanding systemic diseases from the retina. 
